@@ -11,6 +11,8 @@ Login credentials:
 2. user: KARINASARFFY@GMAIL.COM  
 3. password: anima  
 
+After login please click on **Clinica Anima** and click **Run Application**
+
 ## Home ##
 A short presentation of the company
 
