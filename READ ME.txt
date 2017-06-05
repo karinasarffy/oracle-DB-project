@@ -1,0 +1,8 @@
+
+!Nu stiu daca am reusit sa exportez cum trebuie tot proiectul asa ca va trimit si datele de acces. Va multumesc!
+
+https://apex.oracle.com/en/
+
+WORKSPACE: CLINICA_ANIMA
+USER: KARINASARFFY@GMAIL.COM
+PAROLA: clinica
