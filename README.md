@@ -9,7 +9,7 @@ Login credentials:
 
 1. workspace : CLINICA_ANIMA  
 2. user: KARINASARFFY@GMAIL.COM  
-3. password: anima  
+3. password: clinica  
 
 After login please click on **Clinica Anima** and click **Run Application**
 
